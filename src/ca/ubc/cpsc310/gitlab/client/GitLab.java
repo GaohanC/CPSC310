@@ -60,6 +60,7 @@ public class GitLab implements EntryPoint {
 	/**
 	 * Used to display users 
 	 * @param users
+	 * display user
 	 */
 	public void displayUsers(List<IUser> users)
 	{
